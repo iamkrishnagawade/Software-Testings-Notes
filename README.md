@@ -1,2 +1,2 @@
 
-Wiki page https://github.com/iamkrishnagawade/Software-Testings-Notes/wiki
+Follow [Wiki](https://github.com/iamkrishnagawade/Software-Testings-Notes/wiki) page 
